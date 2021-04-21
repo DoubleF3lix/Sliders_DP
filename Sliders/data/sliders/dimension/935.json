@@ -1,0 +1,46 @@
+{
+    "type": "sliders:935",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 17915075039257194294,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 17915075039257194294,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:beach",
+                "minecraft:dark_forest_hills",
+                "minecraft:plains",
+                "minecraft:desert_hills",
+                "minecraft:river",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:wooded_hills",
+                "minecraft:swamp",
+                "minecraft:desert_lakes",
+                "minecraft:deep_warm_ocean",
+                "minecraft:taiga_hills",
+                "minecraft:stone_shore",
+                "minecraft:gravelly_mountains",
+                "minecraft:bamboo_jungle",
+                "minecraft:snowy_mountains",
+                "minecraft:modified_jungle_edge",
+                "minecraft:basalt_deltas",
+                "minecraft:birch_forest",
+                "minecraft:ocean",
+                "minecraft:tall_birch_forest",
+                "minecraft:taiga_mountains",
+                "minecraft:giant_spruce_taiga_hills",
+                "minecraft:savanna",
+                "minecraft:mushroom_fields",
+                "minecraft:bamboo_jungle_hills",
+                "minecraft:ice_spikes",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:mountain_edge",
+                "minecraft:snowy_tundra",
+                "minecraft:mountains",
+                "minecraft:giant_tree_taiga_hills"
+            ],
+            "scale": 52
+        }
+    }
+}

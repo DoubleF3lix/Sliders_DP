@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 2.03,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.26,
+    "fixed_time": 13179,
+    "piglin_safe": true,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": true,
+    "logical_height": 223,
+    "infiniburn": "minecraft:beacon_base_blocks",
+    "effects": "minecraft:the_end"
+}

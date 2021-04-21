@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 2.48,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.56,
+    "fixed_time": 10024,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": false,
+    "logical_height": 221,
+    "infiniburn": "minecraft:trapdoors",
+    "effects": "minecraft:the_end"
+}

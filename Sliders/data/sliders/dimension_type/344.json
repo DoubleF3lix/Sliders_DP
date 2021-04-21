@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.73,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.84,
+    "fixed_time": 12890,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 64,
+    "infiniburn": "minecraft:flower_pots",
+    "effects": "minecraft:overworld"
+}

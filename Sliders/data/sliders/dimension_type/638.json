@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 2.02,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.82,
+    "fixed_time": 20594,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 100,
+    "infiniburn": "minecraft:bamboo_plantable_on",
+    "effects": "minecraft:the_end"
+}

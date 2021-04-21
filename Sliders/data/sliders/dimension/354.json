@@ -1,0 +1,27 @@
+{
+    "type": "sliders:354",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 17559339751742376269,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 17559339751742376269,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:end_barrens",
+                "minecraft:tall_birch_forest",
+                "minecraft:ice_spikes",
+                "minecraft:dark_forest",
+                "minecraft:crimson_forest",
+                "minecraft:mountains",
+                "minecraft:giant_tree_taiga_hills",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:plains",
+                "minecraft:birch_forest",
+                "minecraft:end_midlands",
+                "minecraft:jungle_hills"
+            ],
+            "scale": 22
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "sliders:456",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 15215095662363795774,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 15215095662363795774,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:small_end_islands",
+                "minecraft:mountain_edge",
+                "minecraft:bamboo_jungle",
+                "minecraft:the_void",
+                "minecraft:sunflower_plains",
+                "minecraft:snowy_beach"
+            ],
+            "scale": 36
+        }
+    }
+}

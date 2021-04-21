@@ -1,0 +1,69 @@
+{
+    "type": "sliders:255",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 4877991374616060212,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 4877991374616060212,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:savanna_plateau",
+                    "parameters": {
+                        "altitude": -0.82,
+                        "weirdness": 0.51,
+                        "offset": 0.94,
+                        "temperature": 0.05,
+                        "humidity": 0.34
+                    }
+                },
+                {
+                    "biome": "minecraft:birch_forest",
+                    "parameters": {
+                        "altitude": 1.57,
+                        "weirdness": -0.83,
+                        "offset": 0.45,
+                        "temperature": 0.39,
+                        "humidity": -1.83
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": -7,
+                "amplitudes": [
+                    0.04,
+                    -0.44,
+                    -0.51,
+                    0.11
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -5,
+                "amplitudes": [
+                    0.42,
+                    0.65,
+                    -0.89,
+                    -0.6,
+                    -0.76
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -7,
+                "amplitudes": [
+                    -0.1,
+                    0.22,
+                    -0.25,
+                    -0.52,
+                    -0.36
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -4,
+                "amplitudes": [
+                    -0.1
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "type": "sliders:300",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 5216209159193885846,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 5216209159193885846,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:eroded_badlands",
+                    "parameters": {
+                        "altitude": -0.35,
+                        "weirdness": -1.46,
+                        "offset": 0.14,
+                        "temperature": -0.98,
+                        "humidity": 0.68
+                    }
+                },
+                {
+                    "biome": "minecraft:desert_hills",
+                    "parameters": {
+                        "altitude": -0.57,
+                        "weirdness": 1.17,
+                        "offset": 0.44,
+                        "temperature": 1.36,
+                        "humidity": -0.21
+                    }
+                },
+                {
+                    "biome": "minecraft:wooded_mountains",
+                    "parameters": {
+                        "altitude": 1.55,
+                        "weirdness": 0.73,
+                        "offset": 0.96,
+                        "temperature": 0.19,
+                        "humidity": 1.48
+                    }
+                },
+                {
+                    "biome": "minecraft:wooded_hills",
+                    "parameters": {
+                        "altitude": 1.8,
+                        "weirdness": 1.85,
+                        "offset": 0.88,
+                        "temperature": -0.16,
+                        "humidity": -1.52
+                    }
+                },
+                {
+                    "biome": "minecraft:mushroom_field_shore",
+                    "parameters": {
+                        "altitude": 0.65,
+                        "weirdness": -0.29,
+                        "offset": 0.0,
+                        "temperature": -0.22,
+                        "humidity": -0.46
+                    }
+                },
+                {
+                    "biome": "minecraft:deep_ocean",
+                    "parameters": {
+                        "altitude": 1.82,
+                        "weirdness": 0.12,
+                        "offset": 0.6,
+                        "temperature": 0.52,
+                        "humidity": 0.46
+                    }
+                },
+                {
+                    "biome": "minecraft:savanna_plateau",
+                    "parameters": {
+                        "altitude": 0.06,
+                        "weirdness": 0.8,
+                        "offset": 0.1,
+                        "temperature": 1.77,
+                        "humidity": -1.1
+                    }
+                },
+                {
+                    "biome": "minecraft:savanna",
+                    "parameters": {
+                        "altitude": 1.41,
+                        "weirdness": -0.15,
+                        "offset": 0.54,
+                        "temperature": 0.46,
+                        "humidity": 0.6
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": -9,
+                "amplitudes": [
+                    -0.72,
+                    0.0,
+                    0.92,
+                    0.45,
+                    -0.75
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -9,
+                "amplitudes": [
+                    -0.8,
+                    -0.47,
+                    0.03,
+                    -0.36,
+                    -0.89
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -8,
+                "amplitudes": [
+                    -0.34
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -2,
+                "amplitudes": [
+                    -0.24,
+                    -0.78,
+                    0.93,
+                    -1.0
+                ]
+            }
+        }
+    }
+}

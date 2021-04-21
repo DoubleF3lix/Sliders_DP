@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.43,
+    "has_skylight": false,
+    "has_ceiling": false,
+    "ambient_light": 0.93,
+    "fixed_time": 5189,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": true,
+    "logical_height": 88,
+    "infiniburn": "minecraft:pressure_plates",
+    "effects": "minecraft:overworld"
+}

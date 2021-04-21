@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 0.47,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.22,
+    "fixed_time": 2856,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 157,
+    "infiniburn": "minecraft:saplings",
+    "effects": "minecraft:the_end"
+}

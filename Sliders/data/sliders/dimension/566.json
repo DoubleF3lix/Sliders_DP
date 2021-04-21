@@ -1,0 +1,13 @@
+{
+    "type": "sliders:566",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 8451073705228738918,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 8451073705228738918,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:gravelly_mountains"
+        }
+    }
+}

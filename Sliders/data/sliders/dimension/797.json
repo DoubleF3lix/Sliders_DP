@@ -1,0 +1,37 @@
+{
+    "type": "sliders:797",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6549603482130204133,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 6549603482130204133,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:small_end_islands",
+                "minecraft:mountains",
+                "minecraft:savanna",
+                "minecraft:bamboo_jungle",
+                "minecraft:deep_frozen_ocean",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:warm_ocean",
+                "minecraft:end_midlands",
+                "minecraft:ocean",
+                "minecraft:flower_forest",
+                "minecraft:soul_sand_valley",
+                "minecraft:forest",
+                "minecraft:giant_tree_taiga",
+                "minecraft:jungle",
+                "minecraft:desert",
+                "minecraft:dark_forest_hills",
+                "minecraft:giant_tree_taiga_hills",
+                "minecraft:stone_shore",
+                "minecraft:end_barrens",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:river",
+                "minecraft:basalt_deltas"
+            ],
+            "scale": 4
+        }
+    }
+}

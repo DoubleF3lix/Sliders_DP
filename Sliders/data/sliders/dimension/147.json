@@ -1,0 +1,27 @@
+{
+    "type": "sliders:147",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 13818810705198929600,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 13818810705198929600,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:eroded_badlands",
+                "minecraft:bamboo_jungle_hills",
+                "minecraft:plains",
+                "minecraft:giant_tree_taiga_hills",
+                "minecraft:swamp_hills",
+                "minecraft:giant_spruce_taiga",
+                "minecraft:wooded_hills",
+                "minecraft:deep_ocean",
+                "minecraft:modified_jungle",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:desert",
+                "minecraft:birch_forest"
+            ],
+            "scale": 10
+        }
+    }
+}

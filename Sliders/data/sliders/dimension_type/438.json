@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.19,
+    "has_skylight": false,
+    "has_ceiling": true,
+    "ambient_light": 0.49,
+    "fixed_time": 16925,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 42,
+    "infiniburn": "minecraft:slabs",
+    "effects": "minecraft:the_end"
+}

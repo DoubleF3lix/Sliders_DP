@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 1.02,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.3,
+    "fixed_time": 20243,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 76,
+    "infiniburn": "minecraft:mushroom_grow_block",
+    "effects": "minecraft:the_nether"
+}

@@ -1,0 +1,56 @@
+{
+    "type": "sliders:580",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7333081595855169892,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 7333081595855169892,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:savanna_plateau",
+                    "parameters": {
+                        "altitude": 0.04,
+                        "weirdness": 1.97,
+                        "offset": 0.11,
+                        "temperature": -1.02,
+                        "humidity": -1.25
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": -6,
+                "amplitudes": [
+                    0.85,
+                    0.77,
+                    -0.57
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -2,
+                "amplitudes": [
+                    -0.18,
+                    -0.56,
+                    0.88,
+                    -0.56
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -1,
+                "amplitudes": [
+                    0.54
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -8,
+                "amplitudes": [
+                    0.86,
+                    0.31,
+                    0.76,
+                    -0.19
+                ]
+            }
+        }
+    }
+}

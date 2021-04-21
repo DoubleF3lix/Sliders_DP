@@ -1,0 +1,13 @@
+{
+    "type": "sliders:190",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 13909206169989138882,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 13909206169989138882,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:flower_forest"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "sliders:398",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 17421843056548463862,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 17421843056548463862,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:swamp_hills"
+        }
+    }
+}

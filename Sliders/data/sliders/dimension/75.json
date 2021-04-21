@@ -1,0 +1,107 @@
+{
+    "type": "sliders:75",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 12493563395801815336,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 12493563395801815336,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:end_barrens",
+                    "parameters": {
+                        "altitude": -1.97,
+                        "weirdness": 0.62,
+                        "offset": 0.73,
+                        "temperature": -0.61,
+                        "humidity": -1.48
+                    }
+                },
+                {
+                    "biome": "minecraft:jungle",
+                    "parameters": {
+                        "altitude": 1.03,
+                        "weirdness": -1.21,
+                        "offset": 0.64,
+                        "temperature": -1.02,
+                        "humidity": 1.46
+                    }
+                },
+                {
+                    "biome": "minecraft:ice_spikes",
+                    "parameters": {
+                        "altitude": 0.86,
+                        "weirdness": 0.64,
+                        "offset": 0.77,
+                        "temperature": 1.98,
+                        "humidity": 1.06
+                    }
+                },
+                {
+                    "biome": "minecraft:deep_frozen_ocean",
+                    "parameters": {
+                        "altitude": -0.08,
+                        "weirdness": 1.58,
+                        "offset": 0.71,
+                        "temperature": 0.62,
+                        "humidity": -1.88
+                    }
+                },
+                {
+                    "biome": "minecraft:savanna",
+                    "parameters": {
+                        "altitude": 1.61,
+                        "weirdness": -1.36,
+                        "offset": 0.42,
+                        "temperature": -1.1,
+                        "humidity": 0.23
+                    }
+                },
+                {
+                    "biome": "minecraft:basalt_deltas",
+                    "parameters": {
+                        "altitude": -0.37,
+                        "weirdness": -0.67,
+                        "offset": 0.09,
+                        "temperature": 1.34,
+                        "humidity": -1.94
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": -5,
+                "amplitudes": [
+                    0.23,
+                    0.29,
+                    0.71,
+                    -0.67,
+                    0.11
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -9,
+                "amplitudes": [
+                    -0.95,
+                    0.67
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": 0,
+                "amplitudes": [
+                    0.0
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -2,
+                "amplitudes": [
+                    -0.57,
+                    -0.66,
+                    -0.78,
+                    0.93,
+                    0.75
+                ]
+            }
+        }
+    }
+}

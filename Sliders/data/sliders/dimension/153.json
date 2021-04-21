@@ -1,0 +1,22 @@
+{
+    "type": "sliders:153",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 5874342040030151634,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 5874342040030151634,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:swamp_hills",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:dark_forest_hills",
+                "minecraft:jungle_hills",
+                "minecraft:small_end_islands",
+                "minecraft:the_end",
+                "minecraft:plains"
+            ],
+            "scale": 9
+        }
+    }
+}

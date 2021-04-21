@@ -1,0 +1,13 @@
+{
+    "type": "sliders:556",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6362250991907964038,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 6362250991907964038,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:mushroom_field_shore"
+        }
+    }
+}

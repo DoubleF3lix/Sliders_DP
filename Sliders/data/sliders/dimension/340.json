@@ -1,0 +1,19 @@
+{
+    "type": "sliders:340",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 13299653911946572181,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 13299653911946572181,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:warm_ocean",
+                "minecraft:river",
+                "minecraft:shattered_savanna",
+                "minecraft:tall_birch_hills"
+            ],
+            "scale": 32
+        }
+    }
+}

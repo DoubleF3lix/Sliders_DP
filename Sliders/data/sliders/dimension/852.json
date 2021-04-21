@@ -1,0 +1,52 @@
+{
+    "type": "sliders:852",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 14610696099920541568,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 14610696099920541568,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:taiga_mountains",
+                "minecraft:the_end",
+                "minecraft:cold_ocean",
+                "minecraft:shattered_savanna",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:soul_sand_valley",
+                "minecraft:warped_forest",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:giant_tree_taiga",
+                "minecraft:modified_jungle",
+                "minecraft:taiga",
+                "minecraft:lukewarm_ocean",
+                "minecraft:end_highlands",
+                "minecraft:end_midlands",
+                "minecraft:birch_forest_hills",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:desert",
+                "minecraft:mushroom_fields",
+                "minecraft:deep_ocean",
+                "minecraft:ocean",
+                "minecraft:frozen_river",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:deep_warm_ocean",
+                "minecraft:mountain_edge",
+                "minecraft:tall_birch_hills",
+                "minecraft:the_void",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:mountains",
+                "minecraft:beach",
+                "minecraft:stone_shore",
+                "minecraft:mushroom_field_shore",
+                "minecraft:giant_spruce_taiga",
+                "minecraft:savanna_plateau",
+                "minecraft:warm_ocean",
+                "minecraft:small_end_islands",
+                "minecraft:snowy_taiga",
+                "minecraft:modified_badlands_plateau"
+            ],
+            "scale": 39
+        }
+    }
+}

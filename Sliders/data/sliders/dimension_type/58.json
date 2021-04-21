@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 0.86,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.9,
+    "fixed_time": 6236,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 53,
+    "infiniburn": "minecraft:birch_logs",
+    "effects": "minecraft:overworld"
+}

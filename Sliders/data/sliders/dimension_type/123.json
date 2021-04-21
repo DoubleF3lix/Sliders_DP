@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 0.96,
+    "has_skylight": false,
+    "has_ceiling": false,
+    "ambient_light": 0.53,
+    "fixed_time": 16857,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 100,
+    "infiniburn": "minecraft:planks",
+    "effects": "minecraft:the_nether"
+}

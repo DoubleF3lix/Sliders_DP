@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": true,
+    "coordinate_scale": 1.59,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.89,
+    "fixed_time": 5066,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 21,
+    "infiniburn": "minecraft:flowers",
+    "effects": "minecraft:the_end"
+}

@@ -1,0 +1,18 @@
+{
+    "type": "sliders:819",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7321730581743856156,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 7321730581743856156,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:mushroom_fields",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:giant_tree_taiga"
+            ],
+            "scale": 27
+        }
+    }
+}

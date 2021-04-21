@@ -1,0 +1,13 @@
+{
+    "type": "sliders:61",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 16088236403324521499,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 16088236403324521499,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:sunflower_plains"
+        }
+    }
+}

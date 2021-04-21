@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.35,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.33,
+    "fixed_time": 5142,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 10,
+    "infiniburn": "minecraft:acacia_logs",
+    "effects": "minecraft:overworld"
+}

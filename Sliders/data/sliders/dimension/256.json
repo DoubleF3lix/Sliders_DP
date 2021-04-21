@@ -1,0 +1,21 @@
+{
+    "type": "sliders:256",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 13647227127555488332,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 13647227127555488332,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:flower_forest",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:sunflower_plains",
+                "minecraft:plains",
+                "minecraft:modified_jungle_edge",
+                "minecraft:frozen_river"
+            ],
+            "scale": 2
+        }
+    }
+}

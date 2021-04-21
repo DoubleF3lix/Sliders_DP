@@ -1,0 +1,40 @@
+{
+    "type": "sliders:940",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7746421562012097815,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 7746421562012097815,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:warped_forest",
+                "minecraft:the_end",
+                "minecraft:deep_frozen_ocean",
+                "minecraft:snowy_beach",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:dark_forest",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:jungle_edge",
+                "minecraft:birch_forest_hills",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:warm_ocean",
+                "minecraft:nether_wastes",
+                "minecraft:snowy_mountains",
+                "minecraft:modified_jungle",
+                "minecraft:wooded_hills",
+                "minecraft:cold_ocean",
+                "minecraft:crimson_forest",
+                "minecraft:deep_ocean",
+                "minecraft:lukewarm_ocean",
+                "minecraft:desert_hills",
+                "minecraft:wooded_mountains",
+                "minecraft:jungle_hills",
+                "minecraft:river",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:deep_lukewarm_ocean"
+            ],
+            "scale": 3
+        }
+    }
+}

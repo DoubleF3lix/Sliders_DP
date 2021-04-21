@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.03,
+    "has_skylight": false,
+    "has_ceiling": true,
+    "ambient_light": 0.01,
+    "fixed_time": 12373,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 229,
+    "infiniburn": "minecraft:portals",
+    "effects": "minecraft:the_nether"
+}

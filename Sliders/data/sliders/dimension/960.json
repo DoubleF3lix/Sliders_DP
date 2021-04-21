@@ -1,0 +1,13 @@
+{
+    "type": "sliders:960",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 8321949951501264476,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 8321949951501264476,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:giant_tree_taiga"
+        }
+    }
+}

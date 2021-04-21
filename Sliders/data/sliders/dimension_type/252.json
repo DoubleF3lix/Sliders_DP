@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 0.68,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.73,
+    "fixed_time": 3877,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": true,
+    "logical_height": 218,
+    "infiniburn": "minecraft:corals",
+    "effects": "minecraft:overworld"
+}

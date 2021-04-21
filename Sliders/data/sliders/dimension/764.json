@@ -1,0 +1,26 @@
+{
+    "type": "sliders:764",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 2315687429010663224,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 2315687429010663224,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:giant_spruce_taiga_hills",
+                "minecraft:gravelly_mountains",
+                "minecraft:taiga_hills",
+                "minecraft:desert",
+                "minecraft:warm_ocean",
+                "minecraft:deep_frozen_ocean",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:deep_cold_ocean",
+                "minecraft:deep_warm_ocean",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:modified_wooded_badlands_plateau"
+            ],
+            "scale": 37
+        }
+    }
+}

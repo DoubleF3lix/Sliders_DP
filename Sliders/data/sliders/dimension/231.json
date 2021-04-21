@@ -1,0 +1,13 @@
+{
+    "type": "sliders:231",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6281443018856227950,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 6281443018856227950,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:snowy_taiga_mountains"
+        }
+    }
+}

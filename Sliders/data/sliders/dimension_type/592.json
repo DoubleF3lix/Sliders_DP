@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 1.77,
+    "has_skylight": false,
+    "has_ceiling": true,
+    "ambient_light": 0.91,
+    "fixed_time": 321,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 181,
+    "infiniburn": "minecraft:shulker_boxes",
+    "effects": "minecraft:the_nether"
+}

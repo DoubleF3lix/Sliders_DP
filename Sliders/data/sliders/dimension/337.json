@@ -1,0 +1,13 @@
+{
+    "type": "sliders:337",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7256902488341119288,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 7256902488341119288,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:modified_gravelly_mountains"
+        }
+    }
+}

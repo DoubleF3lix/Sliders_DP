@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 0.77,
+    "has_skylight": false,
+    "has_ceiling": false,
+    "ambient_light": 0.99,
+    "fixed_time": 23938,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": false,
+    "has_raids": false,
+    "logical_height": 26,
+    "infiniburn": "minecraft:shulker_boxes",
+    "effects": "minecraft:overworld"
+}

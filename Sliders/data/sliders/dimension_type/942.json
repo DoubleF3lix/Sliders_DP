@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 1.01,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.51,
+    "fixed_time": 5642,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": true,
+    "logical_height": 71,
+    "infiniburn": "minecraft:bee_growables",
+    "effects": "minecraft:the_nether"
+}

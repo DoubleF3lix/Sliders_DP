@@ -1,0 +1,13 @@
+{
+    "type": "sliders:808",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 1826754420450676031,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 1826754420450676031,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:badlands_plateau"
+        }
+    }
+}

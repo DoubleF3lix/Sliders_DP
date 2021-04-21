@@ -1,0 +1,13 @@
+{
+    "type": "sliders:954",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 14619173073496945142,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 14619173073496945142,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:snowy_beach"
+        }
+    }
+}

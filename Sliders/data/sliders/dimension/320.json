@@ -1,0 +1,19 @@
+{
+    "type": "sliders:320",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 462313100392542122,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 462313100392542122,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:lukewarm_ocean",
+                "minecraft:giant_tree_taiga",
+                "minecraft:badlands",
+                "minecraft:crimson_forest"
+            ],
+            "scale": 8
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "type": "sliders:751",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 15710958240042409090,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 15710958240042409090,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:flower_forest",
+                    "parameters": {
+                        "altitude": 1.26,
+                        "weirdness": -1.65,
+                        "offset": 0.16,
+                        "temperature": 1.25,
+                        "humidity": -0.69
+                    }
+                },
+                {
+                    "biome": "minecraft:jungle_edge",
+                    "parameters": {
+                        "altitude": 1.1,
+                        "weirdness": -0.7,
+                        "offset": 0.6,
+                        "temperature": 1.89,
+                        "humidity": -1.05
+                    }
+                },
+                {
+                    "biome": "minecraft:forest",
+                    "parameters": {
+                        "altitude": 0.7,
+                        "weirdness": -0.81,
+                        "offset": 0.84,
+                        "temperature": -1.1,
+                        "humidity": -0.34
+                    }
+                },
+                {
+                    "biome": "minecraft:the_end",
+                    "parameters": {
+                        "altitude": -1.7,
+                        "weirdness": -0.7,
+                        "offset": 0.15,
+                        "temperature": 1.94,
+                        "humidity": -0.42
+                    }
+                },
+                {
+                    "biome": "minecraft:warped_forest",
+                    "parameters": {
+                        "altitude": 1.78,
+                        "weirdness": 0.35,
+                        "offset": 0.57,
+                        "temperature": -0.33,
+                        "humidity": 0.8
+                    }
+                },
+                {
+                    "biome": "minecraft:tall_birch_forest",
+                    "parameters": {
+                        "altitude": -0.73,
+                        "weirdness": -0.27,
+                        "offset": 0.78,
+                        "temperature": -1.82,
+                        "humidity": 0.05
+                    }
+                },
+                {
+                    "biome": "minecraft:beach",
+                    "parameters": {
+                        "altitude": -1.11,
+                        "weirdness": -1.42,
+                        "offset": 0.39,
+                        "temperature": 0.16,
+                        "humidity": 1.1
+                    }
+                },
+                {
+                    "biome": "minecraft:stone_shore",
+                    "parameters": {
+                        "altitude": 1.75,
+                        "weirdness": 0.18,
+                        "offset": 0.21,
+                        "temperature": -0.59,
+                        "humidity": -1.63
+                    }
+                },
+                {
+                    "biome": "minecraft:wooded_mountains",
+                    "parameters": {
+                        "altitude": 0.05,
+                        "weirdness": -0.84,
+                        "offset": 0.8,
+                        "temperature": 1.6,
+                        "humidity": 0.29
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": -10,
+                "amplitudes": [
+                    -0.47
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -2,
+                "amplitudes": [
+                    0.01,
+                    -0.99,
+                    -0.57
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -8,
+                "amplitudes": [
+                    0.27,
+                    0.78,
+                    0.78,
+                    0.26
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -1,
+                "amplitudes": [
+                    -0.91,
+                    -0.93,
+                    0.84
+                ]
+            }
+        }
+    }
+}

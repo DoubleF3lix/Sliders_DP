@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.7,
+    "has_skylight": false,
+    "has_ceiling": false,
+    "ambient_light": 0.94,
+    "fixed_time": 22530,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": true,
+    "logical_height": 7,
+    "infiniburn": "minecraft:warped_stems",
+    "effects": "minecraft:the_end"
+}

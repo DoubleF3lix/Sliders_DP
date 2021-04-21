@@ -1,0 +1,13 @@
+{
+    "type": "sliders:469",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 8807497954611802869,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 8807497954611802869,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:small_end_islands"
+        }
+    }
+}

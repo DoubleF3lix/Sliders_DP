@@ -1,0 +1,13 @@
+{
+    "type": "sliders:76",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 10711497925746481607,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 10711497925746481607,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:desert_lakes"
+        }
+    }
+}

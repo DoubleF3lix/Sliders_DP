@@ -1,0 +1,22 @@
+{
+    "type": "sliders:420",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 12195338491053979647,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 12195338491053979647,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:snowy_tundra",
+                "minecraft:stone_shore",
+                "minecraft:savanna_plateau",
+                "minecraft:beach",
+                "minecraft:modified_gravelly_mountains",
+                "minecraft:giant_spruce_taiga",
+                "minecraft:birch_forest"
+            ],
+            "scale": 8
+        }
+    }
+}

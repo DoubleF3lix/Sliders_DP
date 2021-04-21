@@ -1,0 +1,1 @@
+scoreboard players set $tick sliders.timer 1

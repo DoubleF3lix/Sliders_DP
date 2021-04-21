@@ -1,0 +1,28 @@
+{
+    "type": "sliders:455",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 8313723483599274092,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 8313723483599274092,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:river",
+                "minecraft:frozen_river",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:deep_frozen_ocean",
+                "minecraft:tall_birch_hills",
+                "minecraft:desert_hills",
+                "minecraft:snowy_tundra",
+                "minecraft:swamp_hills",
+                "minecraft:the_end",
+                "minecraft:warped_forest",
+                "minecraft:end_barrens",
+                "minecraft:nether_wastes",
+                "minecraft:jungle_hills"
+            ],
+            "scale": 61
+        }
+    }
+}

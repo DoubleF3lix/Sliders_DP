@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": true,
+    "coordinate_scale": 2.42,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.08,
+    "fixed_time": 6825,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": false,
+    "logical_height": 40,
+    "infiniburn": "minecraft:strider_warm_blocks",
+    "effects": "minecraft:the_nether"
+}

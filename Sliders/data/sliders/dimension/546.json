@@ -1,0 +1,13 @@
+{
+    "type": "sliders:546",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 8421837054826689173,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 8421837054826689173,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:ice_spikes"
+        }
+    }
+}

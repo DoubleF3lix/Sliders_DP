@@ -1,0 +1,34 @@
+{
+    "type": "sliders:350",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7786698720084839634,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 7786698720084839634,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:crimson_forest",
+                "minecraft:mountains",
+                "minecraft:snowy_taiga",
+                "minecraft:badlands",
+                "minecraft:beach",
+                "minecraft:wooded_mountains",
+                "minecraft:warped_forest",
+                "minecraft:bamboo_jungle",
+                "minecraft:end_highlands",
+                "minecraft:tall_birch_hills",
+                "minecraft:desert",
+                "minecraft:bamboo_jungle_hills",
+                "minecraft:desert_hills",
+                "minecraft:gravelly_mountains",
+                "minecraft:taiga_hills",
+                "minecraft:basalt_deltas",
+                "minecraft:swamp_hills",
+                "minecraft:deep_frozen_ocean",
+                "minecraft:jungle_edge"
+            ],
+            "scale": 15
+        }
+    }
+}

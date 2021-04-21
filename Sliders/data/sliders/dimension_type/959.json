@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": true,
+    "coordinate_scale": 1.68,
+    "has_skylight": false,
+    "has_ceiling": true,
+    "ambient_light": 0.98,
+    "fixed_time": 10376,
+    "piglin_safe": true,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": false,
+    "logical_height": 173,
+    "infiniburn": "minecraft:portals",
+    "effects": "minecraft:overworld"
+}

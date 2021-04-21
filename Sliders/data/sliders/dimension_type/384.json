@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 0.74,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.94,
+    "fixed_time": 3261,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 0,
+    "infiniburn": "minecraft:base_stone_overworld",
+    "effects": "minecraft:overworld"
+}

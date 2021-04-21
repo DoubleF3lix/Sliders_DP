@@ -1,0 +1,28 @@
+{
+    "type": "sliders:872",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 5048046394637129328,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 5048046394637129328,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:snowy_beach",
+                "minecraft:stone_shore",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:wooded_hills",
+                "minecraft:dark_forest",
+                "minecraft:the_void",
+                "minecraft:wooded_mountains",
+                "minecraft:bamboo_jungle",
+                "minecraft:tall_birch_hills",
+                "minecraft:the_end",
+                "minecraft:jungle_edge",
+                "minecraft:modified_badlands_plateau",
+                "minecraft:ocean"
+            ],
+            "scale": 39
+        }
+    }
+}

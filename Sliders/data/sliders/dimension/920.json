@@ -1,0 +1,13 @@
+{
+    "type": "sliders:920",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 16771048313386060982,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 16771048313386060982,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:crimson_forest"
+        }
+    }
+}

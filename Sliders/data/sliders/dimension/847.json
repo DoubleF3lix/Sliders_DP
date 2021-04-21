@@ -1,0 +1,13 @@
+{
+    "type": "sliders:847",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 11276486336931304466,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 11276486336931304466,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:nether_wastes"
+        }
+    }
+}

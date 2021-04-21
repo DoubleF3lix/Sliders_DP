@@ -1,0 +1,13 @@
+{
+    "type": "sliders:506",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7768508815732012696,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 7768508815732012696,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:end_highlands"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "sliders:447",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 14370647985958890061,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 14370647985958890061,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:desert_hills",
+                "minecraft:flower_forest",
+                "minecraft:deep_ocean",
+                "minecraft:frozen_river",
+                "minecraft:plains",
+                "minecraft:taiga",
+                "minecraft:desert_lakes",
+                "minecraft:ice_spikes",
+                "minecraft:end_barrens",
+                "minecraft:mushroom_fields",
+                "minecraft:jungle_hills",
+                "minecraft:the_void",
+                "minecraft:jungle",
+                "minecraft:lukewarm_ocean",
+                "minecraft:forest",
+                "minecraft:deep_frozen_ocean",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:swamp_hills"
+            ],
+            "scale": 24
+        }
+    }
+}

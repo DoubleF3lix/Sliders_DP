@@ -1,0 +1,29 @@
+{
+    "type": "sliders:3",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7324255782978578235,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 7324255782978578235,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:modified_jungle",
+                "minecraft:modified_jungle_edge",
+                "minecraft:badlands",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:wooded_mountains",
+                "minecraft:river",
+                "minecraft:snowy_beach",
+                "minecraft:giant_tree_taiga",
+                "minecraft:birch_forest_hills",
+                "minecraft:jungle",
+                "minecraft:birch_forest",
+                "minecraft:savanna",
+                "minecraft:nether_wastes",
+                "minecraft:the_void"
+            ],
+            "scale": 26
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "sliders:393",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 13395964467181597108,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 13395964467181597108,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:mushroom_field_shore"
+        }
+    }
+}

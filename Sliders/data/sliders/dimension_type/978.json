@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 2.11,
+    "has_skylight": false,
+    "has_ceiling": false,
+    "ambient_light": 0.78,
+    "fixed_time": 18594,
+    "piglin_safe": true,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 102,
+    "infiniburn": "minecraft:dark_oak_logs",
+    "effects": "minecraft:the_nether"
+}

@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 0.6,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.68,
+    "fixed_time": 19950,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": false,
+    "has_raids": false,
+    "logical_height": 169,
+    "infiniburn": "minecraft:corals",
+    "effects": "minecraft:the_end"
+}

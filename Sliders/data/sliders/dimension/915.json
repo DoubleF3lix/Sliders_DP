@@ -1,0 +1,27 @@
+{
+    "type": "sliders:915",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6071305654423341212,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 6071305654423341212,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:taiga_mountains",
+                "minecraft:tall_birch_hills",
+                "minecraft:warped_forest",
+                "minecraft:badlands",
+                "minecraft:swamp_hills",
+                "minecraft:modified_jungle",
+                "minecraft:end_highlands",
+                "minecraft:snowy_beach",
+                "minecraft:dark_forest_hills",
+                "minecraft:tall_birch_forest",
+                "minecraft:modified_gravelly_mountains",
+                "minecraft:the_end"
+            ],
+            "scale": 48
+        }
+    }
+}

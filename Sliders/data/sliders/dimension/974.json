@@ -1,0 +1,16 @@
+{
+    "type": "sliders:974",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 16582656716238725124,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 16582656716238725124,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:river"
+            ],
+            "scale": 33
+        }
+    }
+}

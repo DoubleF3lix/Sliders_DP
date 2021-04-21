@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 2.19,
+    "has_skylight": false,
+    "has_ceiling": false,
+    "ambient_light": 0.63,
+    "fixed_time": 19664,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 62,
+    "infiniburn": "minecraft:bee_growables",
+    "effects": "minecraft:overworld"
+}

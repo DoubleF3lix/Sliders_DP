@@ -1,0 +1,17 @@
+{
+    "type": "sliders:976",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 16464506499447819370,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 16464506499447819370,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:snowy_tundra",
+                "minecraft:snowy_taiga_hills"
+            ],
+            "scale": 48
+        }
+    }
+}

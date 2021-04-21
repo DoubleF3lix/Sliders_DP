@@ -1,0 +1,13 @@
+{
+    "type": "sliders:403",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 16326666075648956030,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 16326666075648956030,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:mountains"
+        }
+    }
+}

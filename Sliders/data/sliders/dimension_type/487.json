@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 0.59,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.39,
+    "fixed_time": 14971,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 58,
+    "infiniburn": "minecraft:gold_ores",
+    "effects": "minecraft:the_nether"
+}

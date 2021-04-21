@@ -1,0 +1,13 @@
+{
+    "type": "sliders:118",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 4888462277483866966,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 4888462277483866966,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:desert_lakes"
+        }
+    }
+}

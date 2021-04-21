@@ -1,0 +1,23 @@
+{
+    "type": "sliders:116",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 5277089692675429317,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 5277089692675429317,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:snowy_mountains",
+                "minecraft:the_end",
+                "minecraft:flower_forest",
+                "minecraft:snowy_taiga",
+                "minecraft:swamp_hills",
+                "minecraft:cold_ocean",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:bamboo_jungle_hills"
+            ],
+            "scale": 36
+        }
+    }
+}

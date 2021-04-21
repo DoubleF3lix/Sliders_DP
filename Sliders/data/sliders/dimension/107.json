@@ -1,0 +1,19 @@
+{
+    "type": "sliders:107",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 5774298042589416705,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 5774298042589416705,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:mountain_edge",
+                "minecraft:modified_badlands_plateau",
+                "minecraft:modified_jungle",
+                "minecraft:modified_wooded_badlands_plateau"
+            ],
+            "scale": 26
+        }
+    }
+}

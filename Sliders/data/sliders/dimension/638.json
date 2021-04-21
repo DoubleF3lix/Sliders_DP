@@ -1,0 +1,13 @@
+{
+    "type": "sliders:638",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 4805643460294088721,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 4805643460294088721,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:modified_jungle_edge"
+        }
+    }
+}

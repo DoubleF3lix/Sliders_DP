@@ -1,0 +1,13 @@
+{
+    "type": "sliders:409",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 4426217279190853603,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 4426217279190853603,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:shattered_savanna_plateau"
+        }
+    }
+}

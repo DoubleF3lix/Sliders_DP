@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.61,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.41,
+    "fixed_time": 21679,
+    "piglin_safe": true,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 87,
+    "infiniburn": "minecraft:mushroom_grow_block",
+    "effects": "minecraft:the_end"
+}

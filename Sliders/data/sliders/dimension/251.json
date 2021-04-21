@@ -1,0 +1,20 @@
+{
+    "type": "sliders:251",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 9329108691194708760,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 9329108691194708760,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:jungle_edge",
+                "minecraft:mountain_edge",
+                "minecraft:birch_forest_hills"
+            ],
+            "scale": 30
+        }
+    }
+}

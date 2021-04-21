@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 1.32,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.34,
+    "fixed_time": 10561,
+    "piglin_safe": true,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 43,
+    "infiniburn": "minecraft:stone_bricks",
+    "effects": "minecraft:the_end"
+}

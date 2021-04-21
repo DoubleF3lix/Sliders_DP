@@ -1,0 +1,13 @@
+{
+    "type": "sliders:571",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 9725550962019668346,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 9725550962019668346,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:modified_wooded_badlands_plateau"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 0.5,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.64,
+    "fixed_time": 10178,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 213,
+    "infiniburn": "minecraft:beacon_base_blocks",
+    "effects": "minecraft:the_nether"
+}

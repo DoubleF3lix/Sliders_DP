@@ -1,0 +1,13 @@
+{
+    "type": "sliders:567",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 1726868645190111802,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 1726868645190111802,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:flower_forest"
+        }
+    }
+}

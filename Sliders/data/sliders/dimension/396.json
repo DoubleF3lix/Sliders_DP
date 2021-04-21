@@ -1,0 +1,58 @@
+{
+    "type": "sliders:396",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 9559974001475133379,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 9559974001475133379,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:jungle",
+                    "parameters": {
+                        "altitude": 1.57,
+                        "weirdness": 0.66,
+                        "offset": 0.93,
+                        "temperature": 1.22,
+                        "humidity": 0.93
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": 0,
+                "amplitudes": [
+                    0.88,
+                    -0.78,
+                    0.3
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -8,
+                "amplitudes": [
+                    0.01,
+                    -0.79,
+                    0.68,
+                    -0.21
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -4,
+                "amplitudes": [
+                    0.88,
+                    0.11
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -10,
+                "amplitudes": [
+                    -0.75,
+                    -0.7,
+                    0.72,
+                    -0.26,
+                    -0.96
+                ]
+            }
+        }
+    }
+}

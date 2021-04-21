@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": true,
+    "coordinate_scale": 2.06,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.09,
+    "fixed_time": 17162,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 157,
+    "infiniburn": "minecraft:gold_ores",
+    "effects": "minecraft:the_end"
+}

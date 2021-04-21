@@ -1,0 +1,21 @@
+{
+    "type": "sliders:128",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6275643553657117925,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 6275643553657117925,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:lukewarm_ocean",
+                "minecraft:ice_spikes",
+                "minecraft:warped_forest",
+                "minecraft:mushroom_fields",
+                "minecraft:warm_ocean",
+                "minecraft:savanna_plateau"
+            ],
+            "scale": 47
+        }
+    }
+}

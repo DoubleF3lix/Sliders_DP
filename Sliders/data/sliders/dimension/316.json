@@ -1,0 +1,13 @@
+{
+    "type": "sliders:316",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 17963246477986780435,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 17963246477986780435,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:tall_birch_hills"
+        }
+    }
+}

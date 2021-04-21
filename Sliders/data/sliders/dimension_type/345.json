@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 2.4,
+    "has_skylight": false,
+    "has_ceiling": true,
+    "ambient_light": 0.54,
+    "fixed_time": 9735,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 144,
+    "infiniburn": "minecraft:soul_fire_base_blocks",
+    "effects": "minecraft:the_nether"
+}

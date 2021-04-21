@@ -1,0 +1,13 @@
+{
+    "type": "sliders:69",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 11443786043479288156,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 11443786043479288156,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:giant_tree_taiga"
+        }
+    }
+}

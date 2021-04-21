@@ -1,0 +1,29 @@
+{
+    "type": "sliders:685",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6091928160696210805,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 6091928160696210805,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:modified_gravelly_mountains",
+                "minecraft:taiga_hills",
+                "minecraft:jungle_edge",
+                "minecraft:ocean",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:jungle",
+                "minecraft:swamp",
+                "minecraft:birch_forest_hills",
+                "minecraft:desert_lakes",
+                "minecraft:mountains",
+                "minecraft:savanna",
+                "minecraft:plains",
+                "minecraft:warm_ocean",
+                "minecraft:desert"
+            ],
+            "scale": 43
+        }
+    }
+}

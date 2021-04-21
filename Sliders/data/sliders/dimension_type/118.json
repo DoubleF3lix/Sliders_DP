@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 0.59,
+    "has_skylight": false,
+    "has_ceiling": true,
+    "ambient_light": 0.27,
+    "fixed_time": 11211,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": true,
+    "logical_height": 38,
+    "infiniburn": "minecraft:planks",
+    "effects": "minecraft:the_end"
+}

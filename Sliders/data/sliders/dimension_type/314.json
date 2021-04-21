@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.56,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.58,
+    "fixed_time": 10971,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 146,
+    "infiniburn": "minecraft:nylium",
+    "effects": "minecraft:the_end"
+}

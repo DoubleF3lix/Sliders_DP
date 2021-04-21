@@ -1,0 +1,50 @@
+{
+    "type": "sliders:535",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 4190431221332562165,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 4190431221332562165,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:ocean",
+                "minecraft:modified_gravelly_mountains",
+                "minecraft:river",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:tall_birch_hills",
+                "minecraft:shattered_savanna",
+                "minecraft:crimson_forest",
+                "minecraft:birch_forest",
+                "minecraft:deep_warm_ocean",
+                "minecraft:deep_cold_ocean",
+                "minecraft:modified_badlands_plateau",
+                "minecraft:the_void",
+                "minecraft:warped_forest",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:end_barrens",
+                "minecraft:wooded_mountains",
+                "minecraft:cold_ocean",
+                "minecraft:giant_tree_taiga",
+                "minecraft:dark_forest",
+                "minecraft:deep_ocean",
+                "minecraft:mountain_edge",
+                "minecraft:stone_shore",
+                "minecraft:birch_forest_hills",
+                "minecraft:badlands",
+                "minecraft:warm_ocean",
+                "minecraft:swamp_hills",
+                "minecraft:bamboo_jungle",
+                "minecraft:mushroom_fields",
+                "minecraft:bamboo_jungle_hills",
+                "minecraft:jungle_edge",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:flower_forest",
+                "minecraft:taiga",
+                "minecraft:modified_jungle",
+                "minecraft:jungle"
+            ],
+            "scale": 25
+        }
+    }
+}

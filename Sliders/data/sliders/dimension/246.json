@@ -1,0 +1,27 @@
+{
+    "type": "sliders:246",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7565319172231597038,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 7565319172231597038,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:beach",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:ocean",
+                "minecraft:snowy_beach",
+                "minecraft:jungle_edge",
+                "minecraft:frozen_ocean",
+                "minecraft:badlands_plateau",
+                "minecraft:bamboo_jungle",
+                "minecraft:end_highlands",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:river",
+                "minecraft:swamp"
+            ],
+            "scale": 52
+        }
+    }
+}

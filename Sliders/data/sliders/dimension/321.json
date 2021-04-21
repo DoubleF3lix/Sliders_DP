@@ -1,0 +1,26 @@
+{
+    "type": "sliders:321",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 9994346866089075404,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 9994346866089075404,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:modified_badlands_plateau",
+                "minecraft:the_end",
+                "minecraft:gravelly_mountains",
+                "minecraft:river",
+                "minecraft:badlands_plateau",
+                "minecraft:desert",
+                "minecraft:snowy_mountains",
+                "minecraft:lukewarm_ocean",
+                "minecraft:basalt_deltas",
+                "minecraft:ocean",
+                "minecraft:swamp"
+            ],
+            "scale": 40
+        }
+    }
+}

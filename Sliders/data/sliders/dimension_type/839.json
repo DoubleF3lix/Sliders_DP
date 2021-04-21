@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 0.38,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.36,
+    "fixed_time": 9475,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": false,
+    "logical_height": 189,
+    "infiniburn": "minecraft:dark_oak_logs",
+    "effects": "minecraft:the_end"
+}

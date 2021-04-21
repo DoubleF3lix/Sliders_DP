@@ -1,0 +1,52 @@
+{
+    "type": "sliders:411",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 10015742886406719346,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 10015742886406719346,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:deep_cold_ocean",
+                    "parameters": {
+                        "altitude": 1.06,
+                        "weirdness": 1.81,
+                        "offset": 0.76,
+                        "temperature": -1.15,
+                        "humidity": 1.96
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": -6,
+                "amplitudes": [
+                    -0.02
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": 0,
+                "amplitudes": [
+                    0.37
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": 0,
+                "amplitudes": [
+                    -0.44,
+                    -0.12,
+                    0.75,
+                    0.99
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -3,
+                "amplitudes": [
+                    -0.39,
+                    -0.73
+                ]
+            }
+        }
+    }
+}

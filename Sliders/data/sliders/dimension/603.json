@@ -1,0 +1,39 @@
+{
+    "type": "sliders:603",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 16523240086829753920,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 16523240086829753920,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:warped_forest",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:snowy_tundra",
+                "minecraft:desert_hills",
+                "minecraft:desert",
+                "minecraft:giant_spruce_taiga_hills",
+                "minecraft:beach",
+                "minecraft:eroded_badlands",
+                "minecraft:warm_ocean",
+                "minecraft:mountains",
+                "minecraft:stone_shore",
+                "minecraft:modified_jungle",
+                "minecraft:badlands",
+                "minecraft:jungle",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:dark_forest",
+                "minecraft:flower_forest",
+                "minecraft:wooded_mountains",
+                "minecraft:deep_ocean",
+                "minecraft:snowy_beach",
+                "minecraft:swamp",
+                "minecraft:taiga_hills",
+                "minecraft:shattered_savanna",
+                "minecraft:plains"
+            ],
+            "scale": 40
+        }
+    }
+}

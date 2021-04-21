@@ -1,0 +1,13 @@
+{
+    "type": "sliders:325",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 11572897341618949808,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 11572897341618949808,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:snowy_tundra"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "sliders:756",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 4072706103823734730,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 4072706103823734730,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:taiga_mountains",
+                "minecraft:jungle",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:end_midlands",
+                "minecraft:snowy_tundra",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:ocean",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:savanna_plateau",
+                "minecraft:the_void"
+            ],
+            "scale": 40
+        }
+    }
+}

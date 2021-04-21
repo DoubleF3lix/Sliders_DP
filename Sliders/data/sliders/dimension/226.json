@@ -1,0 +1,13 @@
+{
+    "type": "sliders:226",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 2405771584575262049,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 2405771584575262049,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:giant_spruce_taiga"
+        }
+    }
+}

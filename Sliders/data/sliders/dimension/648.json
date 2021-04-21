@@ -1,0 +1,13 @@
+{
+    "type": "sliders:648",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 14642636474170385765,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 14642636474170385765,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:wooded_mountains"
+        }
+    }
+}

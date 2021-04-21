@@ -1,0 +1,64 @@
+{
+    "type": "sliders:723",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 17955126248253515687,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 17955126248253515687,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                "minecraft:beach",
+                "minecraft:basalt_deltas",
+                "minecraft:gravelly_mountains",
+                "minecraft:bamboo_jungle",
+                "minecraft:snowy_beach",
+                "minecraft:sunflower_plains",
+                "minecraft:dark_forest",
+                "minecraft:modified_jungle_edge",
+                "minecraft:small_end_islands",
+                "minecraft:stone_shore",
+                "minecraft:plains",
+                "minecraft:the_end",
+                "minecraft:giant_spruce_taiga_hills",
+                "minecraft:modified_badlands_plateau",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:savanna",
+                "minecraft:birch_forest_hills",
+                "minecraft:end_highlands",
+                "minecraft:wooded_mountains"
+            ],
+            "preset": "minecraft:nether",
+            "altitude_noise": {
+                "firstOctave": -3,
+                "amplitudes": [
+                    -0.56
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -4,
+                "amplitudes": [
+                    0.59,
+                    -0.14
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -8,
+                "amplitudes": [
+                    1.0,
+                    0.72,
+                    -0.9,
+                    0.57,
+                    0.11
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": 0,
+                "amplitudes": [
+                    0.78,
+                    0.96
+                ]
+            }
+        }
+    }
+}

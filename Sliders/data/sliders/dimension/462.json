@@ -1,0 +1,13 @@
+{
+    "type": "sliders:462",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7696824185987112196,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 7696824185987112196,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:ice_spikes"
+        }
+    }
+}

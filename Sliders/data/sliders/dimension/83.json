@@ -1,0 +1,13 @@
+{
+    "type": "sliders:83",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 16680732324419041377,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 16680732324419041377,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:snowy_mountains"
+        }
+    }
+}

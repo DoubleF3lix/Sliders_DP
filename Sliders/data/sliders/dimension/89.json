@@ -1,0 +1,135 @@
+{
+    "type": "sliders:89",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 13611158093528487372,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 13611158093528487372,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:taiga",
+                    "parameters": {
+                        "altitude": -1.23,
+                        "weirdness": -1.76,
+                        "offset": 0.43,
+                        "temperature": 1.37,
+                        "humidity": -0.58
+                    }
+                },
+                {
+                    "biome": "minecraft:swamp",
+                    "parameters": {
+                        "altitude": -0.56,
+                        "weirdness": 1.33,
+                        "offset": 0.39,
+                        "temperature": -0.69,
+                        "humidity": 1.39
+                    }
+                },
+                {
+                    "biome": "minecraft:mountain_edge",
+                    "parameters": {
+                        "altitude": 1.38,
+                        "weirdness": -0.89,
+                        "offset": 0.86,
+                        "temperature": -1.67,
+                        "humidity": 1.51
+                    }
+                },
+                {
+                    "biome": "minecraft:stone_shore",
+                    "parameters": {
+                        "altitude": -0.37,
+                        "weirdness": 0.21,
+                        "offset": 0.21,
+                        "temperature": 0.11,
+                        "humidity": -1.71
+                    }
+                },
+                {
+                    "biome": "minecraft:snowy_tundra",
+                    "parameters": {
+                        "altitude": 1.45,
+                        "weirdness": 0.14,
+                        "offset": 0.43,
+                        "temperature": -1.23,
+                        "humidity": -1.76
+                    }
+                },
+                {
+                    "biome": "minecraft:modified_gravelly_mountains",
+                    "parameters": {
+                        "altitude": -0.15,
+                        "weirdness": 0.57,
+                        "offset": 0.23,
+                        "temperature": 1.76,
+                        "humidity": -1.68
+                    }
+                },
+                {
+                    "biome": "minecraft:the_void",
+                    "parameters": {
+                        "altitude": 0.87,
+                        "weirdness": 1.23,
+                        "offset": 0.93,
+                        "temperature": -0.63,
+                        "humidity": -1.05
+                    }
+                },
+                {
+                    "biome": "minecraft:snowy_taiga",
+                    "parameters": {
+                        "altitude": -1.7,
+                        "weirdness": 0.61,
+                        "offset": 0.65,
+                        "temperature": -1.13,
+                        "humidity": 0.33
+                    }
+                },
+                {
+                    "biome": "minecraft:plains",
+                    "parameters": {
+                        "altitude": -1.9,
+                        "weirdness": 1.49,
+                        "offset": 0.93,
+                        "temperature": -1.7,
+                        "humidity": -0.48
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": -4,
+                "amplitudes": [
+                    -0.59
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -6,
+                "amplitudes": [
+                    0.59,
+                    -0.84,
+                    0.13
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -5,
+                "amplitudes": [
+                    0.2,
+                    -0.58,
+                    0.29
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -8,
+                "amplitudes": [
+                    0.47,
+                    -0.14,
+                    0.54,
+                    -0.93
+                ]
+            }
+        }
+    }
+}

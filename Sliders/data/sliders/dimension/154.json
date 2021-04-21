@@ -1,0 +1,25 @@
+{
+    "type": "sliders:154",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6360999062662619762,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 6360999062662619762,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:shattered_savanna",
+                "minecraft:river",
+                "minecraft:giant_spruce_taiga_hills",
+                "minecraft:swamp_hills",
+                "minecraft:flower_forest",
+                "minecraft:lukewarm_ocean",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:tall_birch_hills",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:savanna"
+            ],
+            "scale": 17
+        }
+    }
+}

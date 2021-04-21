@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.2,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.48,
+    "fixed_time": 7319,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 12,
+    "infiniburn": "minecraft:stone_bricks",
+    "effects": "minecraft:overworld"
+}

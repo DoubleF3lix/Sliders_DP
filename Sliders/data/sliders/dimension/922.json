@@ -1,0 +1,31 @@
+{
+    "type": "sliders:922",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7378673590648554964,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 7378673590648554964,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:giant_tree_taiga",
+                "minecraft:ice_spikes",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:snowy_beach",
+                "minecraft:swamp",
+                "minecraft:savanna",
+                "minecraft:snowy_mountains",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:desert_lakes",
+                "minecraft:eroded_badlands",
+                "minecraft:lukewarm_ocean",
+                "minecraft:flower_forest",
+                "minecraft:tall_birch_hills",
+                "minecraft:gravelly_mountains",
+                "minecraft:sunflower_plains",
+                "minecraft:jungle_hills"
+            ],
+            "scale": 43
+        }
+    }
+}

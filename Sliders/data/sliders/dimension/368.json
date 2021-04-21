@@ -1,0 +1,13 @@
+{
+    "type": "sliders:368",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 8199087825240819988,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 8199087825240819988,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:soul_sand_valley"
+        }
+    }
+}

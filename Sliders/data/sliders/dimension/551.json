@@ -1,0 +1,13 @@
+{
+    "type": "sliders:551",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 13953232873579537856,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 13953232873579537856,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:modified_badlands_plateau"
+        }
+    }
+}

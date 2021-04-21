@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 2.31,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.21,
+    "fixed_time": 12196,
+    "piglin_safe": true,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": false,
+    "logical_height": 8,
+    "infiniburn": "minecraft:bamboo_plantable_on",
+    "effects": "minecraft:the_nether"
+}

@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 1.2,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 1.0,
+    "fixed_time": 23510,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 207,
+    "infiniburn": "minecraft:underwater_bonemeals",
+    "effects": "minecraft:the_nether"
+}

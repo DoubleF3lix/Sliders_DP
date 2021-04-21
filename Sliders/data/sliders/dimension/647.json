@@ -1,0 +1,50 @@
+{
+    "type": "sliders:647",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 4553150860092591158,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 4553150860092591158,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:the_end",
+                "minecraft:modified_gravelly_mountains",
+                "minecraft:lukewarm_ocean",
+                "minecraft:warm_ocean",
+                "minecraft:end_highlands",
+                "minecraft:tall_birch_hills",
+                "minecraft:swamp_hills",
+                "minecraft:savanna_plateau",
+                "minecraft:small_end_islands",
+                "minecraft:taiga_mountains",
+                "minecraft:ocean",
+                "minecraft:nether_wastes",
+                "minecraft:frozen_river",
+                "minecraft:taiga",
+                "minecraft:modified_jungle",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:tall_birch_forest",
+                "minecraft:badlands",
+                "minecraft:ice_spikes",
+                "minecraft:basalt_deltas",
+                "minecraft:giant_tree_taiga",
+                "minecraft:warped_forest",
+                "minecraft:gravelly_mountains",
+                "minecraft:wooded_hills",
+                "minecraft:soul_sand_valley",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:cold_ocean",
+                "minecraft:plains",
+                "minecraft:savanna",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:desert_lakes",
+                "minecraft:shattered_savanna",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:snowy_beach",
+                "minecraft:mountains"
+            ],
+            "scale": 45
+        }
+    }
+}

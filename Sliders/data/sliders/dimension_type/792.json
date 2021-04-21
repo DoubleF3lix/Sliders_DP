@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": true,
+    "coordinate_scale": 1.9,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.02,
+    "fixed_time": 11312,
+    "piglin_safe": true,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": true,
+    "logical_height": 90,
+    "infiniburn": "minecraft:flower_pots",
+    "effects": "minecraft:the_nether"
+}

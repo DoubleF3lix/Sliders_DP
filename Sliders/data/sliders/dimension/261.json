@@ -1,0 +1,18 @@
+{
+    "type": "sliders:261",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 5726585425731090792,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 5726585425731090792,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:deep_ocean",
+                "minecraft:badlands_plateau",
+                "minecraft:wooded_hills"
+            ],
+            "scale": 60
+        }
+    }
+}

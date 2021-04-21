@@ -1,0 +1,13 @@
+{
+    "type": "sliders:485",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6813553346440796399,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 6813553346440796399,
+            "type": "minecraft:vanilla_layered",
+            "large_biomes": false
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 1.66,
+    "has_skylight": false,
+    "has_ceiling": false,
+    "ambient_light": 0.43,
+    "fixed_time": 20994,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 126,
+    "infiniburn": "minecraft:crops",
+    "effects": "minecraft:overworld"
+}

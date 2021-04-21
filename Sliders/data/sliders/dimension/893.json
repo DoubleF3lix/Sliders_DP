@@ -1,0 +1,13 @@
+{
+    "type": "sliders:893",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7503377099643266288,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 7503377099643266288,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:eroded_badlands"
+        }
+    }
+}

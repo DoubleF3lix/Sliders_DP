@@ -1,0 +1,13 @@
+{
+    "type": "sliders:86",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 2279372618675622847,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 2279372618675622847,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:bamboo_jungle_hills"
+        }
+    }
+}

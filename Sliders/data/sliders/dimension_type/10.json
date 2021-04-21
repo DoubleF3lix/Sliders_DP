@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": false,
+    "coordinate_scale": 1.53,
+    "has_skylight": true,
+    "has_ceiling": true,
+    "ambient_light": 0.61,
+    "fixed_time": 20043,
+    "piglin_safe": false,
+    "bed_works": true,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 142,
+    "infiniburn": "minecraft:mushroom_grow_block",
+    "effects": "minecraft:overworld"
+}

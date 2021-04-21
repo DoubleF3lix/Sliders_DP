@@ -1,0 +1,13 @@
+{
+    "type": "sliders:453",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 12362787606382146866,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 12362787606382146866,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:dark_forest_hills"
+        }
+    }
+}

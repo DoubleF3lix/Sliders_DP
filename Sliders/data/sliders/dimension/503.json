@@ -1,0 +1,105 @@
+{
+    "type": "sliders:503",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 331962391943361191,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 331962391943361191,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                "minecraft:flower_forest",
+                "minecraft:jungle_hills",
+                "minecraft:end_highlands",
+                "minecraft:mountain_edge",
+                "minecraft:warped_forest",
+                "minecraft:giant_spruce_taiga_hills",
+                "minecraft:ocean",
+                "minecraft:frozen_ocean",
+                "minecraft:stone_shore",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:basalt_deltas",
+                "minecraft:taiga",
+                "minecraft:giant_tree_taiga_hills",
+                "minecraft:snowy_taiga",
+                "minecraft:lukewarm_ocean",
+                "minecraft:beach",
+                "minecraft:cold_ocean",
+                "minecraft:end_midlands",
+                "minecraft:dark_forest_hills",
+                "minecraft:modified_jungle_edge",
+                "minecraft:badlands_plateau",
+                "minecraft:forest",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:deep_ocean",
+                "minecraft:mushroom_field_shore",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:soul_sand_valley",
+                "minecraft:small_end_islands",
+                "minecraft:ice_spikes",
+                "minecraft:jungle",
+                "minecraft:tall_birch_hills",
+                "minecraft:badlands",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:snowy_mountains",
+                "minecraft:birch_forest_hills",
+                "minecraft:desert_lakes",
+                "minecraft:dark_forest",
+                "minecraft:mushroom_fields",
+                "minecraft:desert",
+                "minecraft:jungle_edge",
+                "minecraft:bamboo_jungle_hills",
+                "minecraft:the_void",
+                "minecraft:plains",
+                "minecraft:modified_badlands_plateau",
+                "minecraft:deep_warm_ocean",
+                "minecraft:crimson_forest",
+                "minecraft:sunflower_plains",
+                "minecraft:snowy_tundra",
+                "minecraft:gravelly_mountains",
+                "minecraft:end_barrens",
+                "minecraft:nether_wastes",
+                "minecraft:wooded_hills",
+                "minecraft:modified_jungle",
+                "minecraft:birch_forest"
+            ],
+            "preset": "minecraft:nether",
+            "altitude_noise": {
+                "firstOctave": -9,
+                "amplitudes": [
+                    -0.4
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -3,
+                "amplitudes": [
+                    -0.74,
+                    0.85,
+                    0.29,
+                    -0.24,
+                    -0.09
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -5,
+                "amplitudes": [
+                    0.73,
+                    0.33,
+                    -0.43,
+                    0.82,
+                    0.85
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -3,
+                "amplitudes": [
+                    -0.91,
+                    0.51,
+                    -0.38,
+                    0.14,
+                    0.11
+                ]
+            }
+        }
+    }
+}

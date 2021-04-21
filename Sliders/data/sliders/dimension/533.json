@@ -1,0 +1,13 @@
+{
+    "type": "sliders:533",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 4756640063092496073,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 4756640063092496073,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:sunflower_plains"
+        }
+    }
+}

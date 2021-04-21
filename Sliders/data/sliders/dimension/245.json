@@ -1,0 +1,13 @@
+{
+    "type": "sliders:245",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 16852891387224290588,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 16852891387224290588,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:cold_ocean"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "sliders:221",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6575925653104460106,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 6575925653104460106,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:mountain_edge",
+                "minecraft:lukewarm_ocean",
+                "minecraft:nether_wastes",
+                "minecraft:savanna",
+                "minecraft:bamboo_jungle_hills",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:mountains"
+            ],
+            "scale": 11
+        }
+    }
+}

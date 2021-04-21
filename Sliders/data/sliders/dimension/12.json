@@ -1,0 +1,261 @@
+{
+    "type": "sliders:12",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 7947947937735933100,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 7947947937735933100,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:taiga",
+                    "parameters": {
+                        "altitude": -0.36,
+                        "weirdness": 0.53,
+                        "offset": 0.12,
+                        "temperature": -0.98,
+                        "humidity": 0.98
+                    }
+                },
+                {
+                    "biome": "minecraft:modified_jungle",
+                    "parameters": {
+                        "altitude": -1.04,
+                        "weirdness": 1.22,
+                        "offset": 0.98,
+                        "temperature": 0.6,
+                        "humidity": 0.55
+                    }
+                },
+                {
+                    "biome": "minecraft:deep_warm_ocean",
+                    "parameters": {
+                        "altitude": -1.12,
+                        "weirdness": 1.04,
+                        "offset": 0.62,
+                        "temperature": 0.69,
+                        "humidity": 0.12
+                    }
+                },
+                {
+                    "biome": "minecraft:shattered_savanna_plateau",
+                    "parameters": {
+                        "altitude": -1.13,
+                        "weirdness": -1.58,
+                        "offset": 0.78,
+                        "temperature": 1.34,
+                        "humidity": 1.13
+                    }
+                },
+                {
+                    "biome": "minecraft:modified_gravelly_mountains",
+                    "parameters": {
+                        "altitude": -0.55,
+                        "weirdness": -0.31,
+                        "offset": 0.5,
+                        "temperature": 0.67,
+                        "humidity": -1.93
+                    }
+                },
+                {
+                    "biome": "minecraft:modified_badlands_plateau",
+                    "parameters": {
+                        "altitude": 1.52,
+                        "weirdness": -2.0,
+                        "offset": 0.1,
+                        "temperature": 0.59,
+                        "humidity": 1.11
+                    }
+                },
+                {
+                    "biome": "minecraft:giant_tree_taiga",
+                    "parameters": {
+                        "altitude": -1.66,
+                        "weirdness": -0.05,
+                        "offset": 0.46,
+                        "temperature": -1.98,
+                        "humidity": -0.45
+                    }
+                },
+                {
+                    "biome": "minecraft:warped_forest",
+                    "parameters": {
+                        "altitude": -0.37,
+                        "weirdness": -1.7,
+                        "offset": 0.87,
+                        "temperature": 0.66,
+                        "humidity": -0.95
+                    }
+                },
+                {
+                    "biome": "minecraft:savanna",
+                    "parameters": {
+                        "altitude": 0.5,
+                        "weirdness": -0.77,
+                        "offset": 0.75,
+                        "temperature": -1.45,
+                        "humidity": -1.11
+                    }
+                },
+                {
+                    "biome": "minecraft:taiga_mountains",
+                    "parameters": {
+                        "altitude": -0.21,
+                        "weirdness": -1.87,
+                        "offset": 0.97,
+                        "temperature": -1.92,
+                        "humidity": -0.66
+                    }
+                },
+                {
+                    "biome": "minecraft:beach",
+                    "parameters": {
+                        "altitude": 1.74,
+                        "weirdness": -0.99,
+                        "offset": 0.27,
+                        "temperature": 1.98,
+                        "humidity": -0.29
+                    }
+                },
+                {
+                    "biome": "minecraft:ice_spikes",
+                    "parameters": {
+                        "altitude": 2.0,
+                        "weirdness": -1.88,
+                        "offset": 0.86,
+                        "temperature": 1.96,
+                        "humidity": -2.0
+                    }
+                },
+                {
+                    "biome": "minecraft:mountains",
+                    "parameters": {
+                        "altitude": -0.94,
+                        "weirdness": -0.52,
+                        "offset": 0.89,
+                        "temperature": 1.08,
+                        "humidity": -1.0
+                    }
+                },
+                {
+                    "biome": "minecraft:wooded_mountains",
+                    "parameters": {
+                        "altitude": -0.18,
+                        "weirdness": -0.77,
+                        "offset": 0.98,
+                        "temperature": -0.24,
+                        "humidity": 0.76
+                    }
+                },
+                {
+                    "biome": "minecraft:desert_lakes",
+                    "parameters": {
+                        "altitude": 0.27,
+                        "weirdness": -1.98,
+                        "offset": 0.8,
+                        "temperature": 0.92,
+                        "humidity": -0.49
+                    }
+                },
+                {
+                    "biome": "minecraft:the_void",
+                    "parameters": {
+                        "altitude": -0.29,
+                        "weirdness": -0.46,
+                        "offset": 0.61,
+                        "temperature": 1.6,
+                        "humidity": 1.35
+                    }
+                },
+                {
+                    "biome": "minecraft:bamboo_jungle",
+                    "parameters": {
+                        "altitude": -1.38,
+                        "weirdness": 0.29,
+                        "offset": 0.56,
+                        "temperature": -0.61,
+                        "humidity": 1.04
+                    }
+                },
+                {
+                    "biome": "minecraft:lukewarm_ocean",
+                    "parameters": {
+                        "altitude": 1.41,
+                        "weirdness": -1.6,
+                        "offset": 0.42,
+                        "temperature": 1.62,
+                        "humidity": -0.78
+                    }
+                },
+                {
+                    "biome": "minecraft:nether_wastes",
+                    "parameters": {
+                        "altitude": -0.1,
+                        "weirdness": -1.03,
+                        "offset": 0.47,
+                        "temperature": 1.3,
+                        "humidity": 1.29
+                    }
+                },
+                {
+                    "biome": "minecraft:deep_lukewarm_ocean",
+                    "parameters": {
+                        "altitude": 1.71,
+                        "weirdness": 1.63,
+                        "offset": 0.0,
+                        "temperature": -0.57,
+                        "humidity": 1.46
+                    }
+                },
+                {
+                    "biome": "minecraft:river",
+                    "parameters": {
+                        "altitude": 2.0,
+                        "weirdness": -1.8,
+                        "offset": 0.31,
+                        "temperature": 0.39,
+                        "humidity": 1.77
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": -4,
+                "amplitudes": [
+                    0.99,
+                    0.45,
+                    0.36
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -7,
+                "amplitudes": [
+                    -0.84,
+                    -0.55,
+                    -0.63,
+                    0.81,
+                    -0.33
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -2,
+                "amplitudes": [
+                    -0.53,
+                    -0.05,
+                    0.81,
+                    0.11
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -3,
+                "amplitudes": [
+                    0.9,
+                    -0.76,
+                    -0.71,
+                    -0.82,
+                    0.91
+                ]
+            }
+        }
+    }
+}

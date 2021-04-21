@@ -1,0 +1,19 @@
+{
+    "type": "sliders:998",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 8736711245604831466,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 8736711245604831466,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:snowy_taiga",
+                "minecraft:desert_lakes",
+                "minecraft:eroded_badlands",
+                "minecraft:small_end_islands"
+            ],
+            "scale": 29
+        }
+    }
+}

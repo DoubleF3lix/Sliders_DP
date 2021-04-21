@@ -1,0 +1,13 @@
+{
+    "type": "sliders:596",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 9263297114353948613,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 9263297114353948613,
+            "type": "minecraft:vanilla_layered",
+            "large_biomes": true
+        }
+    }
+}

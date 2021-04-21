@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 1.01,
+    "has_skylight": false,
+    "has_ceiling": true,
+    "ambient_light": 0.65,
+    "fixed_time": 22581,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 19,
+    "infiniburn": "minecraft:guarded_by_piglins",
+    "effects": "minecraft:the_end"
+}

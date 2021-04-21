@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": true,
+    "coordinate_scale": 0.29,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.48,
+    "fixed_time": 627,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": false,
+    "logical_height": 142,
+    "infiniburn": "minecraft:stone_pressure_plates",
+    "effects": "minecraft:the_end"
+}

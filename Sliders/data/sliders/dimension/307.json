@@ -1,0 +1,13 @@
+{
+    "type": "sliders:307",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 1693003106526568238,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 1693003106526568238,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:snowy_taiga"
+        }
+    }
+}

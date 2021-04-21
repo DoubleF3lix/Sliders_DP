@@ -1,0 +1,13 @@
+{
+    "type": "sliders:862",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 13848309565663398516,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 13848309565663398516,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:shattered_savanna_plateau"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "sliders:629",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 18323075223733215160,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 18323075223733215160,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:bamboo_jungle_hills"
+            ],
+            "scale": 39
+        }
+    }
+}

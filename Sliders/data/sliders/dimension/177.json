@@ -1,0 +1,63 @@
+{
+    "type": "sliders:177",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 9883639416867105396,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 9883639416867105396,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:nether_wastes",
+                    "parameters": {
+                        "altitude": -0.66,
+                        "weirdness": 0.65,
+                        "offset": 0.22,
+                        "temperature": -0.64,
+                        "humidity": 1.56
+                    }
+                },
+                {
+                    "biome": "minecraft:tall_birch_hills",
+                    "parameters": {
+                        "altitude": -1.3,
+                        "weirdness": -0.36,
+                        "offset": 0.34,
+                        "temperature": -1.45,
+                        "humidity": -1.66
+                    }
+                }
+            ],
+            "altitude_noise": {
+                "firstOctave": -1,
+                "amplitudes": [
+                    0.51
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -5,
+                "amplitudes": [
+                    -0.86
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": 0,
+                "amplitudes": [
+                    -0.62,
+                    -0.17,
+                    -0.81,
+                    0.24
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -2,
+                "amplitudes": [
+                    0.64,
+                    -0.08,
+                    0.02
+                ]
+            }
+        }
+    }
+}

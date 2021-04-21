@@ -1,0 +1,13 @@
+{
+    "type": "sliders:541",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 9203684041861484039,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 9203684041861484039,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:basalt_deltas"
+        }
+    }
+}

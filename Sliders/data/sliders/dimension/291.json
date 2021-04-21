@@ -1,0 +1,68 @@
+{
+    "type": "sliders:291",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 6174598472670836328,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 6174598472670836328,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                "minecraft:swamp_hills",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:modified_gravelly_mountains",
+                "minecraft:taiga_mountains",
+                "minecraft:forest",
+                "minecraft:mountain_edge",
+                "minecraft:the_void",
+                "minecraft:beach",
+                "minecraft:lukewarm_ocean",
+                "minecraft:snowy_beach",
+                "minecraft:bamboo_jungle",
+                "minecraft:end_highlands",
+                "minecraft:snowy_mountains",
+                "minecraft:snowy_tundra",
+                "minecraft:jungle_hills",
+                "minecraft:wooded_mountains"
+            ],
+            "preset": "minecraft:nether",
+            "altitude_noise": {
+                "firstOctave": -4,
+                "amplitudes": [
+                    0.17,
+                    0.03,
+                    -0.69
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -2,
+                "amplitudes": [
+                    0.12,
+                    -0.57,
+                    0.56,
+                    0.71,
+                    -0.16
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -10,
+                "amplitudes": [
+                    -0.43,
+                    -0.23,
+                    0.86,
+                    0.06
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": 0,
+                "amplitudes": [
+                    -0.51,
+                    0.62,
+                    -0.43,
+                    0.33,
+                    -0.37
+                ]
+            }
+        }
+    }
+}

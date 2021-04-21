@@ -1,0 +1,119 @@
+{
+    "type": "sliders:914",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 15258919800930368697,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 15258919800930368697,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                "minecraft:frozen_ocean",
+                "minecraft:bamboo_jungle",
+                "minecraft:snowy_taiga",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:river",
+                "minecraft:crimson_forest",
+                "minecraft:tall_birch_hills",
+                "minecraft:the_end",
+                "minecraft:desert_lakes",
+                "minecraft:wooded_mountains",
+                "minecraft:frozen_river",
+                "minecraft:desert_hills",
+                "minecraft:basalt_deltas",
+                "minecraft:birch_forest",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:lukewarm_ocean",
+                "minecraft:flower_forest",
+                "minecraft:gravelly_mountains",
+                "minecraft:eroded_badlands",
+                "minecraft:the_void",
+                "minecraft:ocean",
+                "minecraft:jungle",
+                "minecraft:end_highlands",
+                "minecraft:giant_tree_taiga",
+                "minecraft:forest",
+                "minecraft:badlands_plateau",
+                "minecraft:sunflower_plains",
+                "minecraft:cold_ocean",
+                "minecraft:mushroom_fields",
+                "minecraft:snowy_mountains",
+                "minecraft:badlands",
+                "minecraft:mountain_edge",
+                "minecraft:wooded_badlands_plateau",
+                "minecraft:deep_cold_ocean",
+                "minecraft:giant_spruce_taiga",
+                "minecraft:end_barrens",
+                "minecraft:snowy_beach",
+                "minecraft:birch_forest_hills",
+                "minecraft:modified_jungle_edge",
+                "minecraft:mushroom_field_shore",
+                "minecraft:savanna",
+                "minecraft:dark_forest_hills",
+                "minecraft:tall_birch_forest",
+                "minecraft:warped_forest",
+                "minecraft:bamboo_jungle_hills",
+                "minecraft:deep_frozen_ocean",
+                "minecraft:warm_ocean",
+                "minecraft:deep_ocean",
+                "minecraft:deep_warm_ocean",
+                "minecraft:nether_wastes",
+                "minecraft:savanna_plateau",
+                "minecraft:dark_forest",
+                "minecraft:small_end_islands",
+                "minecraft:soul_sand_valley",
+                "minecraft:desert",
+                "minecraft:wooded_hills",
+                "minecraft:shattered_savanna_plateau",
+                "minecraft:beach",
+                "minecraft:modified_badlands_plateau",
+                "minecraft:giant_tree_taiga_hills",
+                "minecraft:end_midlands",
+                "minecraft:taiga",
+                "minecraft:swamp",
+                "minecraft:taiga_mountains",
+                "minecraft:plains",
+                "minecraft:ice_spikes",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:shattered_savanna",
+                "minecraft:taiga_hills",
+                "minecraft:jungle_edge"
+            ],
+            "preset": "minecraft:nether",
+            "altitude_noise": {
+                "firstOctave": -5,
+                "amplitudes": [
+                    0.79,
+                    0.59,
+                    -0.64,
+                    0.35
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -5,
+                "amplitudes": [
+                    0.07,
+                    0.35,
+                    0.17
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -3,
+                "amplitudes": [
+                    0.69,
+                    -0.22,
+                    0.78,
+                    -0.55,
+                    0.77
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -6,
+                "amplitudes": [
+                    0.28,
+                    -0.73
+                ]
+            }
+        }
+    }
+}

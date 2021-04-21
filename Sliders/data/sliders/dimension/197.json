@@ -1,0 +1,25 @@
+{
+    "type": "sliders:197",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 845034677092786279,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 845034677092786279,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:deep_ocean",
+                "minecraft:lukewarm_ocean",
+                "minecraft:badlands_plateau",
+                "minecraft:jungle_hills",
+                "minecraft:giant_tree_taiga",
+                "minecraft:frozen_river",
+                "minecraft:desert_lakes",
+                "minecraft:tall_birch_hills",
+                "minecraft:wooded_mountains",
+                "minecraft:taiga_hills"
+            ],
+            "scale": 47
+        }
+    }
+}

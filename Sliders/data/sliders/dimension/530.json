@@ -1,0 +1,13 @@
+{
+    "type": "sliders:530",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 1962797117098559753,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 1962797117098559753,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:bamboo_jungle"
+        }
+    }
+}

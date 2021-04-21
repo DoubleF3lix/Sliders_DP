@@ -1,0 +1,13 @@
+{
+    "type": "sliders:843",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 12258014826616255863,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 12258014826616255863,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:bamboo_jungle"
+        }
+    }
+}

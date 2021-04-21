@@ -1,0 +1,26 @@
+{
+    "type": "sliders:353",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 17300916837211012151,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 17300916837211012151,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:mushroom_field_shore",
+                "minecraft:dark_forest",
+                "minecraft:deep_ocean",
+                "minecraft:frozen_river",
+                "minecraft:deep_cold_ocean",
+                "minecraft:badlands",
+                "minecraft:the_void",
+                "minecraft:flower_forest",
+                "minecraft:giant_spruce_taiga_hills",
+                "minecraft:taiga",
+                "minecraft:snowy_tundra"
+            ],
+            "scale": 2
+        }
+    }
+}

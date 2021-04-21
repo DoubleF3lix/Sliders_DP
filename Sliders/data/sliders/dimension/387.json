@@ -1,0 +1,13 @@
+{
+    "type": "sliders:387",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 10240177142153818632,
+        "settings": "minecraft:floating_islands",
+        "biome_source": {
+            "seed": 10240177142153818632,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:modified_gravelly_mountains"
+        }
+    }
+}

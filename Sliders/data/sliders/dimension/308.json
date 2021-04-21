@@ -1,0 +1,12 @@
+{
+    "type": "sliders:308",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 1270868573340001847,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 1270868573340001847,
+            "type": "minecraft:the_end"
+        }
+    }
+}

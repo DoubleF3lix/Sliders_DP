@@ -1,0 +1,26 @@
+{
+    "type": "sliders:467",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 16820926324859273800,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 16820926324859273800,
+            "type": "minecraft:checkerboard",
+            "biomes": [
+                "minecraft:mountain_edge",
+                "minecraft:taiga_mountains",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:dark_forest",
+                "minecraft:end_midlands",
+                "minecraft:badlands",
+                "minecraft:swamp",
+                "minecraft:wooded_hills",
+                "minecraft:deep_warm_ocean",
+                "minecraft:flower_forest"
+            ],
+            "scale": 42
+        }
+    }
+}

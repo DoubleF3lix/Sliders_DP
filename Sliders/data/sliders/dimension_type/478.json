@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 2.36,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.03,
+    "fixed_time": 5620,
+    "piglin_safe": false,
+    "bed_works": false,
+    "respawn_anchor_works": false,
+    "has_raids": true,
+    "logical_height": 168,
+    "infiniburn": "minecraft:trapdoors",
+    "effects": "minecraft:the_nether"
+}

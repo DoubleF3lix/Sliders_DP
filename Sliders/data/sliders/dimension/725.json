@@ -1,0 +1,69 @@
+{
+    "type": "sliders:725",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 5885480737719937007,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 5885480737719937007,
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                "minecraft:crimson_forest",
+                "minecraft:tall_birch_hills",
+                "minecraft:warped_forest",
+                "minecraft:end_highlands",
+                "minecraft:mushroom_fields",
+                "minecraft:snowy_taiga_hills",
+                "minecraft:lukewarm_ocean",
+                "minecraft:beach",
+                "minecraft:tall_birch_forest",
+                "minecraft:swamp_hills",
+                "minecraft:snowy_taiga_mountains",
+                "minecraft:dark_forest_hills",
+                "minecraft:frozen_river",
+                "minecraft:bamboo_jungle_hills",
+                "minecraft:modified_wooded_badlands_plateau",
+                "minecraft:savanna_plateau",
+                "minecraft:mushroom_field_shore",
+                "minecraft:swamp",
+                "minecraft:birch_forest_hills",
+                "minecraft:modified_jungle_edge",
+                "minecraft:river",
+                "minecraft:deep_warm_ocean"
+            ],
+            "preset": "minecraft:nether",
+            "altitude_noise": {
+                "firstOctave": -9,
+                "amplitudes": [
+                    -0.99,
+                    -0.71
+                ]
+            },
+            "weirdness_noise": {
+                "firstOctave": -9,
+                "amplitudes": [
+                    0.96,
+                    0.46,
+                    -0.15,
+                    0.06,
+                    0.31
+                ]
+            },
+            "temperature_noise": {
+                "firstOctave": -5,
+                "amplitudes": [
+                    -0.6,
+                    -0.78
+                ]
+            },
+            "humidity_noise": {
+                "firstOctave": -9,
+                "amplitudes": [
+                    0.73,
+                    0.5,
+                    0.43
+                ]
+            }
+        }
+    }
+}

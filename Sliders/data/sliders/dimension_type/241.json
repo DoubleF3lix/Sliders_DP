@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 0.41,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.56,
+    "fixed_time": 2330,
+    "piglin_safe": true,
+    "bed_works": true,
+    "respawn_anchor_works": true,
+    "has_raids": true,
+    "logical_height": 225,
+    "infiniburn": "minecraft:bee_growables",
+    "effects": "minecraft:the_end"
+}

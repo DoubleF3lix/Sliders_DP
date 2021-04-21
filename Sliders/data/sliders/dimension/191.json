@@ -1,0 +1,13 @@
+{
+    "type": "sliders:191",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 9279519076155362423,
+        "settings": "minecraft:amplified",
+        "biome_source": {
+            "seed": 9279519076155362423,
+            "type": "minecraft:fixed",
+            "biome": "minecraft:snowy_beach"
+        }
+    }
+}

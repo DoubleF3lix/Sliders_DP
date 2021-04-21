@@ -1,0 +1,16 @@
+{
+    "ultrawarm": true,
+    "natural": true,
+    "coordinate_scale": 1.75,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "ambient_light": 0.07,
+    "fixed_time": 1586,
+    "piglin_safe": true,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": true,
+    "logical_height": 200,
+    "infiniburn": "minecraft:infiniburn_end",
+    "effects": "minecraft:the_nether"
+}

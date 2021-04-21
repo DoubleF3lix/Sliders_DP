@@ -1,0 +1,12 @@
+{
+    "type": "sliders:590",
+    "generator": {
+        "type": "minecraft:noise",
+        "seed": 9031560225553103493,
+        "settings": "minecraft:overworld",
+        "biome_source": {
+            "seed": 9031560225553103493,
+            "type": "minecraft:the_end"
+        }
+    }
+}

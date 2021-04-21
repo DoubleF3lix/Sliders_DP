@@ -1,0 +1,16 @@
+{
+    "ultrawarm": false,
+    "natural": false,
+    "coordinate_scale": 1.41,
+    "has_skylight": false,
+    "has_ceiling": true,
+    "ambient_light": 0.21,
+    "fixed_time": 7954,
+    "piglin_safe": true,
+    "bed_works": false,
+    "respawn_anchor_works": true,
+    "has_raids": false,
+    "logical_height": 0,
+    "infiniburn": "minecraft:nylium",
+    "effects": "minecraft:overworld"
+}
